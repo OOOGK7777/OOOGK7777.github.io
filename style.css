@@ -160,3 +160,22 @@ body {
 .price__new__box1{
     margin-top: 32px;
 }
+
+/* Описание кнокпки для записи */
+
+.button__plan{
+    background-color: #D1BC8A;
+    font-family: 'Kulim Park', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;   
+    border: 0;
+    height: 55px;
+    width: 214px;
+    text-align: center;
+/*    padding-top: 17px;*/
+    border-radius: 36px;
+    margin-left: 100px;
+    margin-bottom: 30px;;
+}
+
