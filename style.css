@@ -55,6 +55,7 @@ address {
 }
 
 body {
+    overflow-x: hidden;
     background-color: #EFEBDC;
     font-family: 'Kulim Park', sans-serif;
     max-width: 390px;
