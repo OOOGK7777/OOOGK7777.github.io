@@ -58,7 +58,7 @@ body {
     overflow-x: hidden;
     background-color: #EFEBDC;
     font-family: 'Kulim Park', sans-serif;
-    max-width: 380px;
+    max-width: 400px;
     min-width: 370px;
 }
 
@@ -87,7 +87,7 @@ body {
     display: flex;
     background-color: #D1BC8A;
     height: 155px;
-    width: 390px;
+    width: 400px;
     margin-bottom: 49px;
 }
 
