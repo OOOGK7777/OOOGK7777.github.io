@@ -1,0 +1,192 @@
+:link,
+:visited {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+p {
+    font-size: 1em;
+}
+
+ul,
+ol,
+dl,
+li,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+body,
+html,
+p,
+blockquote,
+fieldset,
+input {
+    padding: 0;
+    margin: 0;
+}
+
+a img,
+:link img,
+:visited img {
+    border: none;
+}
+
+address {
+    font-style: normal;
+}
+
+body{
+    overflow-x: hidden;
+    background-color: #EFEBDC;
+    font-family: 'Kulim Park', sans-serif;
+}
+    
+
+/* Основной контейнер контента */
+
+.main__conteiner{
+ width: 390px;    
+}
+
+/* Заголовок основного блока */
+
+.main__h{
+    margin-top: 31px;
+    font-size: 24px;
+    background-color: #EFEBDC;
+    text-align: center;
+}
+ 
+/* Текст основного блока */
+
+.main__text{
+    width: 326px;
+    font-size: 16px;
+    margin-left: 32px;
+    margin-top: 42px;
+    margin-bottom: 58px;
+}
+    
+/* Описание кнопки для записи */
+
+.button__plan{
+    background-color: #D1BC8A;
+    font-family: 'Kulim Park', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;   
+    border: 0;
+    height: 55px;
+    width: 214px;
+    text-align: center;
+/*    padding-top: 17px;*/
+    border-radius: 36px;
+    margin-left: 30px;
+    margin-bottom: 30px;;
+}
+
+
+/* Описание стрелочки */
+
+.arrow__left{
+    margin-top: 11px;
+    margin-left: 20px;
+    transform: scale(-1, 1)
+}
+
+/* Описание блока кнопок */
+
+.buttons__{
+    display: flex; 
+}
+
+/* Описание блока со стрелочкой */
+
+.img__buttons{
+    height: 56px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
